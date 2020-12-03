@@ -10,18 +10,21 @@ Validation testing is the process of evaluating software during the development 
 
 This project will mainly cover the following testing subjects:
 
-1) Testing for the system basic functionalities, including:
+1.Testing for the system basic functionalities, including:
+
 - Registration and login.
 - Main user interface.
 - Notification.
 - Security and data safety.
 
-2) Testing for the main business functionalities, including:
+2.Testing for the main business functionalities, including:
+
 - Communication messaging feature among patients, caregivers, and doctors.
 - Patient’s biometric information gathering and warning feature.
 - Real-time geolocation tracking feature.
 
-3) Testing for system performance, including:
+3.Testing for system performance, including:
+
 - Application start up and running speed.
 - Fingerprint login scanning accuracy.
 - Daily data backup.
