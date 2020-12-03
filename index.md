@@ -1,3 +1,5 @@
+[Test Scope](index.md) | [Test Plan](test_plan.md) | [Test Procedure for Build](test_procedure.md) | [Validation Test](validation_test.md)
+
 # Test Scope
 
 This project is for developing an integration and validation testing for the Enhanced Digital Nurse Assistant Care System (ENDA). The test scope of this project will cover the major two categories: integration testing and validation testing.

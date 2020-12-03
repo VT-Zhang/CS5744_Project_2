@@ -1,3 +1,5 @@
+[Test Scope](index.md) | [Test Plan](test_plan.md) | [Test Procedure for Build](test_procedure.md) | [Validation Test](validation_test.md)
+
 # Test Plan
 
 The ENDA application is a complicated system empassing a number of separated subsystems, including 1) the core engine module containing the business logics utilizing Apache Kafka or similar data streaming analytic engines to process data gathering from the users’ devices, 2) app for the wearable devices to collecting users’ biometrics data, and 3) lastly the web application interface for setting management, visualization and communication between three actors in the system.
