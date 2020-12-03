@@ -4,9 +4,9 @@
 
 The ENDA application is a complicated system empassing a number of separated subsystems, including:
 
-1.The core engine module containing the business logics utilizing Apache Kafka or similar data streaming analytic engines to process data gathering from the users’ devices.
-2.app for the wearable devices to collecting users’ biometrics data.
-3.Lastly the web application interface for setting management, visualization and communication between three actors in the system.
+1. The core engine module containing the business logics utilizing Apache Kafka or similar data streaming analytic engines to process data gathering from the users’ devices.
+2. App for the wearable devices to collecting users’ biometrics data.
+3. Lastly the web application interface for setting management, visualization and communication between three actors in the system.
 
 For the test plan, our team proposes to use the bottom-up integration testing strategy, in which the lower level modules are tested first. These tested modules are then further used to facilitate the testing of higher level modules. The process continues until all modules at top level are tested. Once the lower level modules are tested and integrated, then the next level of modules are formed. The advantages of the proposed bottom-up integration testing strategy are: 1) It’s easier to locate the defects among the data flows in the lower level modules before the testing task becomes too complicated to manage. 2) Unlike the Big Bang testing strategy, there is no need to wait for all modules to be developed to begin the testing. Once some connected lower level modules are developed and ready to go, the testing task can begin while other higher level modules are developed.
 
