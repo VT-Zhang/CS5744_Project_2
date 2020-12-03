@@ -7,6 +7,7 @@ Integration testing is the next level of software testing after unit testing whe
 Validation testing is the process of evaluating software during the development phase or at the end of the development process to determine whether it satisfies the specified business requirements.
 
 This project will mainly cover the following testing subjects:
+
 1) Testing for the system basic functionalities, including:
 - Registration and login.
 - Main user interface.
