@@ -2,7 +2,7 @@
 
 # Test Scope
 
-This project is for developing an integration and validation testing for the Enhanced Digital Nurse Assistant Care System (EDNA). The test scope of this project will cover the major two categories: integration testing and validation testing.
+This project is for developing an integration and validation testing for the [Enhanced Digital Nurse Assistant Care System (EDNA)](https://wtg5020.github.io/softwareDesignProject1/index.html). The test scope of this project will cover the major two categories: integration testing and validation testing.
 
 Integration testing is the next level of software testing after unit testing where individual components are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
 
